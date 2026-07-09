@@ -1,8 +1,7 @@
 torch
 lightgbm
 scikit-learn
-imbalanced-learn
-sentence-transformers
 pandas
-pyarrow
 numpy
+huggingface_hub
+joblib

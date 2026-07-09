@@ -31,7 +31,7 @@ A recurrent neural network that acts as an NLP engine for spatial UI, predicting
 * **Core ML:** PyTorch, LightGBM, Scikit-Learn, Imbalanced-Learn
 * **Data Processing:** Pandas, NumPy, SciPy
 * **Deployment:** FastAPI, Uvicorn
-* **Model Hosting (CDN):** Hugging Face Hub (Separation of logic and heavy tensor weights)
+* **Model Hosting (CDN):** [🤗 Hugging Face Model Hub (KuPu17/ui-behavior-engine)](https://huggingface.co/KuPu17/ui-behavior-engine)
 ---
 
 ## 📊 The Dataset

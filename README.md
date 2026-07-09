@@ -34,8 +34,8 @@ A recurrent neural network that acts as an NLP engine for spatial UI, predicting
 * **Model Hosting (CDN):** Hugging Face Hub (Separation of logic and heavy tensor weights)
 ---
 
-## 📊 The Dataset (Data Provenance)
-The models were trained on the [anaisleila/computer-use-data-psai](https://huggingface.co/datasets/anaisleila/computer-use-data-psai) dataset
+## 📊 The Dataset
+The models were trained on the [anaisleila/computer-use-data-psai](https://huggingface.co/datasets/anaisleila/computer-use-data-psai) dataset.
 
 ---
 

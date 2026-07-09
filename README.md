@@ -32,6 +32,10 @@ A recurrent neural network that acts as an NLP engine for spatial UI, predicting
 * **Data Processing:** Pandas, NumPy, SciPy
 * **Deployment:** FastAPI, Uvicorn
 * **Model Hosting (CDN):** Hugging Face Hub (Separation of logic and heavy tensor weights)
+---
+
+## 📊 The Dataset (Data Provenance)
+The models were trained on the [anaisleila/computer-use-data-psai](https://huggingface.co/datasets/anaisleila/computer-use-data-psai) dataset
 
 ---
 
@@ -44,8 +48,3 @@ ui-behavior-engine/
 │   └── inference.py        # FastAPI server & HF Model ingestion
 ├── requirements.txt
 └── README.md               # You are here
-
----
-
-## 📊 The Dataset (Data Provenance)
-The models were trained on the [anaisleila/computer-use-data-psai](https://huggingface.co/datasets/anaisleila/computer-use-data-psai) dataset
